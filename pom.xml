@@ -27,4 +27,13 @@
     <maven.compiler.target>1.6</maven.compiler.target>
   </properties>
 
+  <at.driver.type>LOCAL</at.driver.type>
+  <at.driver.local>CHROME</at.driver.local>
+  <at.driver.path>/opt/chrome/chromedriver</at.driver.path>
+
+
 </project>
+
+
+
+
